@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Machine Learning, Java, Python**
+- 🌱 I’m currently learning **Javascript,Angular, Java**
 
 - ✨ Intrested in **Software Development** 
 
