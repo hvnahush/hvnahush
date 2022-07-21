@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nahush H V</h1>
-<h3 align="center"><b>A passionate software developer from India ❤</h3></b>
+
 
 ## 👨🏽‍💻 About Me
 
