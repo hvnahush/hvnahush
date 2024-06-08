@@ -3,11 +3,9 @@
 
 ## 👨🏽‍💻 About Me
 
-- 🔭 I’m currently a **Student**
+- 🔭 I’m currently Working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **Javascript,Angular, Java**
-
-- ✨ Intrested in **Software Development** 
+- 🌱 I work on **Javascript,React and Node JS**
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/hvnahush)**
 
