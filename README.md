@@ -15,7 +15,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://angular.io" target="_blank"> <img src="https://img.icons8.com/color/344/angularjs.png"/> </a>
+    <a href="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"/> </a>
 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
