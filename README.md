@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hvnahush/github-readme-activity-graph"><img alt="Nithin Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hvnahush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hvnahush/github-readme-activity-graph"><img alt="Nahush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hvnahush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
